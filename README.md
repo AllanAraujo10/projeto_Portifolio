@@ -18,6 +18,6 @@ Sou desenvolvedor Front-end focado em criar soluções funcionais e visualmente 
 - **Git e GitHub**  
 
 ## Como Me Encontrar 📫  
-- **Portfólio Online**: [seulink.com](#)  
+- **Portfólio Online**: [https://projeto-portifolio-mdobs1d53-allanaraujo10s-projects.vercel.app/](#)  
 - **LinkedIn**: [www.linkedin.com/in/allanaraújo](#)  
 - **E-mail**: allanaraujoferraz10@gmail.com
